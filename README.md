@@ -207,12 +207,12 @@ df_result, fig = predict_and_visualize(G_x=1.0, G_y=2.0, G_z=3.0)
 
 2. **Install dependencies**:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
    
 3. **Run the app**:
    ```bash
-python app.py
+   python app.py
    ```
    
 4. **Check outputs**:
